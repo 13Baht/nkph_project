@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-family: tahoma, Arial, sans-serif;
+	color: #333;
+	font-size: 10pt;
+}
+#header {
+	background-image: url(../images/bg.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+	height: 198;
+}
+.textWhiteBold {
+	font-size:14px;
+    font-family:'Tahoma', Arial, Verdana;
+    font-weight:bold;
+	color: #FFF;
+}
+.textBlackBold {
+	font-size:13px;
+    font-family:'Tahoma', Arial, Verdana;
+    font-weight:bold;
+	color: #000;
+}
+.textBlueBold {
+	font-size:14px;
+    font-family:'Tahoma', Arial, Verdana;
+    font-weight:bold;
+	color: #06C;
+}
+a#k1:link {
+	font-family: tahoma, Arial, sans-serif;
+	color: #0A9284;
+	font-size: 14px;
+	text-decoration: none;
+}
+a#k1:visited {
+	font-family: tahoma, Arial, sans-serif;
+	color: #0A9284;
+	font-size: 14px;
+	text-decoration: none;
+}
+a#k1:hover {
+	font-family: tahoma, Arial, sans-serif;
+	color: #09F;
+	font-size: 14px;
+	text-decoration: underline;
+}
+a#k2:link {
+	font-family: tahoma, Arial, sans-serif;
+	color: #F60;
+	font-size: 13px;
+	text-decoration: none;
+}
+a#k2:visited {
+	font-family: tahoma, Arial, sans-serif;
+	color: #F60;
+	font-size: 13px;
+	text-decoration: none;
+}
+a#k2:hover {
+	font-family: tahoma, Arial, sans-serif;
+	color: #09F;
+	font-size: 13px;
+	text-decoration: underline;
+}
+.textBlackNormal {
+	font-family: tahoma, Arial, sans-serif;
+	color: #333;
+	font-size: 13px;
+}
+.textBlackSmall {
+	font-family: tahoma, Arial, sans-serif;
+	color: #333;
+	font-size: 12px;
+}
+.textRedSmall {
+	font-family: tahoma, Arial, sans-serif;
+	color: #F00;
+	font-size: 12px;
+}
+.textGreenNormal {
+	font-family: tahoma, Arial, sans-serif;
+	color: #096;
+	font-size: 13px;
+}

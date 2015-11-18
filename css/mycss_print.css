@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-family: "TH SarabunPSK", tahoma;
+	font-size: 16pt;
+}
+.fontBold16 {
+	font-family: "TH SarabunPSK", tahoma;
+	font-size: 16pt;
+	font-weight: bold;
+}
+.fontBold18 {
+	font-family: "TH SarabunPSK", tahoma;
+	font-size: 18pt;
+	font-weight: bold;
+}
+.fontNormalItalic {
+	font-family: "TH SarabunPSK", tahoma;
+	font-size: 16pt;
+	font-style: italic;
+}
